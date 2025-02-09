@@ -1,5 +1,6 @@
 #!/bin/bash
-find . -type d -exec chmod ugo+X {} \;
+chmod -R a+X ./
+
 
 
 
