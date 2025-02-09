@@ -1,5 +1,6 @@
 #!/bin/bash
-find . -type d -exec chmod a+X {} \;
+find . -type d -exec chmod a+X {} +
+
 
 
 
