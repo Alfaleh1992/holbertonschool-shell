@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod 775 /tmp/hello
+chmod 754 /tmp/hello
+
