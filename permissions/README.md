@@ -1,1 +1,1 @@
-This script changes the group ownership of the file 'hello' to 'school'.
+This script changes the group owner of the file 'hello' to 'school'.
